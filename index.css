@@ -54,6 +54,7 @@
 .menu a.active {
   background-color: rgba(172, 163, 148, 1);
   color: white;
+  font-weight: bold;
   padding: 20px;
   border-radius: 12px;
 }
